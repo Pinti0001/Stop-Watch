@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# About StopWatch 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+A stopwatch is a timekeeping device used to measure the elapsed time between a starting point and an endpoint. It is commonly used in various contexts, including sports, fitness, cooking, scientific experiments, and other activities that require precise timing.
 
 ## Available Scripts
 
